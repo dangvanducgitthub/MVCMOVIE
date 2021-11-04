@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\net2\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\Github\\MVCMOVIE\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\code\\net2\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\Github\\MVCMOVIE\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\net2\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\Github\\MVCMOVIE\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\code\\net2\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\Github\\MVCMOVIE\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\duc\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\net2\\MvcMovie\\obj\\",
+        "outputPath": "D:\\Github\\MVCMOVIE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
