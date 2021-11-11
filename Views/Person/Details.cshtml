@@ -1,0 +1,24 @@
+@model MvcMovie.Models.Person
+
+@{
+    ViewData["Title"] = "Thông tin người";
+}
+
+<h1>Thông tin</h1>
+
+<div>
+    <h4>Người</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PersonName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PersonName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.PersonId">Sửa</a> |
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>
