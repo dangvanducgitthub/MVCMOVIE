@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\CategoryMovie\\Create.cshtml",
+      "TargetPath": "Views\\CategoryMovie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Movies\\Index.cshtml",
       "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
@@ -15644,8 +15649,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\sanPhamMovie\\Delete.cshtml",
+      "TargetPath": "Views\\sanPhamMovie\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIEsinhVien\\Details.cshtml",
+      "TargetPath": "Views\\MVCMOVIEsinhVien\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\CategoryMovie\\Edit.cshtml",
+      "TargetPath": "Views\\CategoryMovie\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,6 +15684,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\sanPhamMovie\\Details.cshtml",
+      "TargetPath": "Views\\sanPhamMovie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIEsinhVien\\Edit.cshtml",
+      "TargetPath": "Views\\MVCMOVIEsinhVien\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Employee\\Index.cshtml",
       "TargetPath": "Views\\Employee\\Index.cshtml",
       "FileKind": "mvc"
@@ -15674,6 +15704,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\CategoryMovie\\Index.cshtml",
+      "TargetPath": "Views\\CategoryMovie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\HelloWorld\\Welcome.cshtml",
       "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
@@ -15681,6 +15716,16 @@
     {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Person\\Index.cshtml",
       "TargetPath": "Views\\Person\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIE\\Index.cshtml",
+      "TargetPath": "Views\\MVCMOVIE\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIEsinhVien\\Delete.cshtml",
+      "TargetPath": "Views\\MVCMOVIEsinhVien\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15701,6 +15746,11 @@
     {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Product\\Edit.cshtml",
       "TargetPath": "Views\\Product\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\sanPhamMovie\\Index.cshtml",
+      "TargetPath": "Views\\sanPhamMovie\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15729,8 +15779,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\sanPhamMovie\\Create.cshtml",
+      "TargetPath": "Views\\sanPhamMovie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIE\\Create.cshtml",
+      "TargetPath": "Views\\MVCMOVIE\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIE\\Edit.cshtml",
+      "TargetPath": "Views\\MVCMOVIE\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIEsinhVien\\Index.cshtml",
+      "TargetPath": "Views\\MVCMOVIEsinhVien\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIE\\Delete.cshtml",
+      "TargetPath": "Views\\MVCMOVIE\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIEsinhVien\\Create.cshtml",
+      "TargetPath": "Views\\MVCMOVIEsinhVien\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\CategoryMovie\\Details.cshtml",
+      "TargetPath": "Views\\CategoryMovie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\sanPhamMovie\\Edit.cshtml",
+      "TargetPath": "Views\\sanPhamMovie\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15769,6 +15859,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\CategoryMovie\\Delete.cshtml",
+      "TargetPath": "Views\\CategoryMovie\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Movies\\Edit.cshtml",
       "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
@@ -15786,6 +15881,11 @@
     {
       "FilePath": "d:\\Github\\MVCMOVIE\\Views\\Student\\Details.cshtml",
       "TargetPath": "Views\\Student\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\MVCMOVIE\\Views\\MVCMOVIE\\Details.cshtml",
+      "TargetPath": "Views\\MVCMOVIE\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

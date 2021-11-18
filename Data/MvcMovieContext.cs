@@ -24,6 +24,8 @@ namespace MvcMovie.Data
         public DbSet<MvcMovie.Models.Employee> Employee { get; set; }
         public DbSet<conNguoi> conNguoi { get; set; }
         public DbSet<sinhVien> sinhVien { get; set; }
+        public DbSet<MvcMovie.Models.Category> Category { get; set; }
+        public DbSet<MvcMovie.Models.sanPham> sanPham { get; set; }
     }
 }
 
