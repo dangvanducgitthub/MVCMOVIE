@@ -102,6 +102,43 @@ namespace MvcMovie.Migrations
 
                     b.ToTable("Student");
                 });
+
+            modelBuilder.Entity("MvcMovie.Models.conNguoi", b =>
+                {
+                    b.Property<string>("PersonId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("PersonName")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("PersonId");
+
+                    b.ToTable("conNguoi");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("conNguoi");
+                });
+
+            modelBuilder.Entity("MvcMovie.Models.sinhVien", b =>
+                {
+                    b.HasBaseType("MvcMovie.Models.conNguoi");
+
+                    b.Property<string>("Address")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("StudentID")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("University")
+                        .HasColumnType("TEXT");
+
+                    b.ToTable("conNguoi");
+
+                    b.HasDiscriminator().HasValue("sinhVien");
+                });
 #pragma warning restore 612, 618
         }
     }
