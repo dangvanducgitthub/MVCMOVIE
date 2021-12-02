@@ -26,6 +26,7 @@ namespace MvcMovie.Models
                         Title = "Dragon Ball",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Fighter",
+                        Rating ="r",
                         Price = 9.99M
                     },
                     new Movie
@@ -33,6 +34,7 @@ namespace MvcMovie.Models
                         Title = "Doremon",
                         ReleaseDate = DateTime.Parse("1979-5-10"),
                         Genre = "Romantic Comedy",
+                        Rating ="r",
                         Price = 3.99M
                     },
                     new Movie
@@ -40,6 +42,7 @@ namespace MvcMovie.Models
                         Title = "Harry Poter",
                         ReleaseDate = DateTime.Parse("1998-12-12"),
                         Genre = "Romantic Fighter",
+                        Rating ="r",
                         Price = 7.99M
                     },
                     new Movie
@@ -47,6 +50,7 @@ namespace MvcMovie.Models
                         Title = "68",
                         ReleaseDate = DateTime.Parse("2020-10-10"),
                         Genre = "Mecha Drama",
+                        Rating ="r",
                         Price = 8.99M
                     },
                     new Movie
@@ -54,7 +58,9 @@ namespace MvcMovie.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
-                        Price = 7.99M
+                        Rating ="r",
+                        Price = 7.99M,
+                        
                     }
                 );
 

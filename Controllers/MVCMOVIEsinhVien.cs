@@ -7,16 +7,17 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
-
+using MvcMovie.Models.Process;
 namespace MvcMovie.Controllers
 {
     public class MVCMOVIEsinhVien : Controller
     {
         private readonly MvcMovieContext _context;
-
-        public MVCMOVIEsinhVien(MvcMovieContext context)
+        private readonly StringProcess _strPro ;
+        public MVCMOVIEsinhVien(MvcMovieContext context, StringProcess strPro)
         {
             _context = context;
+            _strPro = strPro;
         }
 
         // GET: MVCMOVIEsinhVien
@@ -46,6 +47,8 @@ namespace MvcMovie.Controllers
         // GET: MVCMOVIEsinhVien/Create
         public IActionResult Create()
         {
+            
+            
             return View();
         }
 
